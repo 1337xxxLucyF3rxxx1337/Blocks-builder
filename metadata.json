@@ -1,0 +1,5 @@
+{
+  "name": "Lego Image Generator",
+  "description": "An application to generate images with Lego penguins based on a prompt and an initial image.",
+  "requestFramePermissions": []
+}
